@@ -1,4 +1,4 @@
-# WebGL Fluid Simulation
+# WebGL Fluid Simulation（WebGL流体模拟）
 
 [Play here](https://ayjcsgm.github.io/WebGL-Fluid-Simulation/)
 
